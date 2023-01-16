@@ -59,4 +59,6 @@ Admin can only see and modify notes created by admin and user can see and modify
 
 If you want to make any front end code change and see the result just to ctrl + f5 to reflect new code changes.
 
+I have also restricted the text area size to enter note to max 1000 characters for time being.
+
 
